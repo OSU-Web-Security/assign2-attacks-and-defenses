@@ -4,7 +4,7 @@ Fortunately, your competitor just deployed a new version of their site that incl
 
 The feature is called "Competitor Comparison" and it includes links to competitor search engines so that users can compare search results and decide which search engine is best. Clearly, they feel pretty confident that their results are the best.
 
-They appear to be using the foolproof `htmlElementEscape()` function written for them by the Stanford CS 253 student to generate the HTML for these links so you think they're guaranteed to be safe:
+They appear to be using the foolproof `htmlElementEscape()` function written for them by the CS499/579: Web Security student to generate the HTML for these links so you think they're guaranteed to be safe:
 
 ```js
 router.get('/search', async (req, res) => {

@@ -1,4 +1,4 @@
-## You made it to Assignment 1! ✨
+## You made it to Assignment 2! ✨
 
 If you're reading this, then you were able to get everything set up. Nice work! You can see the exercies you'll need to complete listed to the left.
 

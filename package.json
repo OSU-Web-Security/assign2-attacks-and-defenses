@@ -1,6 +1,6 @@
 {
-  "name": "assign1",
-  "description": "assign1",
+  "name": "assign2-attacks-and-defenses",
+  "description": "assign2-attacks-and-defenses",
   "version": "1.0.0",
   "author": {
     "name": "Feross Aboukhadijeh",
@@ -34,14 +34,14 @@
     "tap-spec": "^5.0.0",
     "tape": "^4.11.0"
   },
-  "homepage": "https://cs253.stanford.edu",
+  "homepage": "https://websec.osu-security.com",
   "keywords": [],
   "license": "MIT",
   "main": "server/index.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/stanford-web-security/assign1.git"
+    "url": "git@github.com:OSU-Web-Security/assign2-attacks-and-defenses.git"
   },
   "scripts": {
     "lint": "standard | snazzy && standard-markdown **/*.md",

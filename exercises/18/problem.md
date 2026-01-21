@@ -1,6 +1,6 @@
 Congrats, you're all done! ✨
 
-Now, go take [CS 181](http://cs181.stanford.edu) and reflect on the ethical implications of all your actions thus far! 😁
+Now, go take CS391 and reflect on the ethical implications of all your actions thus far! 😁
 
 ## Survey
 

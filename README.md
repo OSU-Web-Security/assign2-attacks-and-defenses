@@ -1,3 +1,3 @@
-#Assignment 1 – Journey to the Dark Side 🌘
+#Assignment 2 – Attacks and Defenses 
 
-Assignment instructions: https://web.stanford.edu/class/cs253/assign1
+Assignment instructions: https://websec.osu-security.com/assignments/Assignment2.html
