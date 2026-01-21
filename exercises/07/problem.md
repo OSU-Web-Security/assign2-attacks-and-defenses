@@ -24,4 +24,4 @@ Find the XSS vulnerability in the search input field. You should **not** use a `
 
 <iframe src='http://caloogle.xyz:4070'></iframe>
 
-Before you move on to the next exercise, remember to copy your "attack input" into the `SOLUTIONS.md` file.
+Before you move on to the next exercise, remember to copy your "attack input" into the `ATTACKS.md` file.

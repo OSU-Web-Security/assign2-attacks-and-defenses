@@ -22,4 +22,4 @@ Try submitting various inputs and then look at the HTML source of the `<iframe>`
 
 <iframe src='http://caloogle.xyz:4080'></iframe>
 
-Before you move on to the next exercise, remember to copy your "attack input" as well as your server code into the `SOLUTIONS.md` file.
+Before you move on to the next exercise, remember to copy your "attack input" as well as your server code into the `ATTACKS.md` file.

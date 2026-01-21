@@ -14,4 +14,4 @@ After all, your personal motto has always been "No risk, no rari!"
 
 <iframe src='http://caloogle.xyz:4120'></iframe>
 
-Before you move on to the next exercise, remember to copy your "attack input" as well as your server code into the `SOLUTIONS.md` file.
+Before you move on to the next exercise, remember to copy your "attack input" as well as your server code into the `ATTACKS.md` file.

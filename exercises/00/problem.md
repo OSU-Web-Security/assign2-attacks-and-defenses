@@ -16,7 +16,7 @@ With Reflected XSS, you want to find a way to encode the attack input into a URL
 
 With Stored XSS, you want to find a way to get your attack input stored more permanently, e.g. in the server's database, so that when your target visits a page constructed using this data at some point in the future, your attack code will execute in their browser.
 
-Usually, you can test your "attack inputs" by entering them into a form input field or encoding them into a URL parameter. Once you can execute code in the victim's browser, you can prove this by calling the `success()` function that we've created for you. Remember to save the attack inputs which you produce into the `SOLUTIONS.md` file. This is what you will submit for grading.
+Usually, you can test your "attack inputs" by entering them into a form input field or encoding them into a URL parameter. Once you can execute code in the victim's browser, you can prove this by calling the `success()` function that we've created for you. Remember to save the attack inputs which you produce into the `ATTACKS.md` file. This is what you will submit for grading.
 
 ## A quick note for the devious among you (all of you?)
 

@@ -49,4 +49,4 @@ Time to show your competitor the power of Stored XSS!
 
 <iframe src='http://caloogle.xyz:4170'></iframe>
 
-Before you move on to the next exercise, remember to copy your "attack code" into the `SOLUTIONS.md` file.
+Before you move on to the next exercise, remember to copy your "attack code" into the `ATTACKS.md` file.

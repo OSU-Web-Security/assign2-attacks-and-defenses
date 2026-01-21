@@ -10,4 +10,4 @@ Find the XSS vulnerability in the search input field. You can use any HTML tag t
 
 <iframe src='http://caloogle.xyz:4160'></iframe>
 
-Before you move on to the next exercise, remember to copy your "attack input" into the `SOLUTIONS.md` file.
+Before you move on to the next exercise, remember to copy your "attack input" into the `ATTACKS.md` file.

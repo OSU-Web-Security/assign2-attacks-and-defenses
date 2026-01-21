@@ -28,4 +28,4 @@ You may need to look at the HTML source of the `<iframe>`.
 
 <iframe src='http://caloogle.xyz:4150'></iframe>
 
-Before you move on to the next exercise, remember to copy your "attack input" into the `SOLUTIONS.md` file.
+Before you move on to the next exercise, remember to copy your "attack input" into the `ATTACKS.md` file.

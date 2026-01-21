@@ -30,4 +30,4 @@ Try submitting various inputs and then look at the HTML source of the `<iframe>`
 
 <iframe src='http://caloogle.xyz:4100'></iframe>
 
-Before you move on to the next exercise, remember to copy your "attack input" into the `SOLUTIONS.md` file.
+Before you move on to the next exercise, remember to copy your "attack input" into the `ATTACKS.md` file.

@@ -20,4 +20,4 @@ Lesson learned: even if a server would never generate an vulnerable URL and plac
 
 <iframe src='http://caloogle.xyz:4140'></iframe>
 
-Before you move on to the next exercise, remember to copy your **attack URL** into the `SOLUTIONS.md` file.
+Before you move on to the next exercise, remember to copy your **attack URL** into the `ATTACKS.md` file.

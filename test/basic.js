@@ -7,7 +7,8 @@ const SRC_PATH = join(ROOT_PATH, 'src')
 
 test('Check that src/ looks reasonable', t => {
   const paths = [
-    'SOLUTIONS.md',
+    'DEFENSES.md',
+    'ATTACKS.md',
     'SURVEY.md'
   ]
 
